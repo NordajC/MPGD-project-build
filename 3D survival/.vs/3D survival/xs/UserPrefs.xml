@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EC046AAB-0A48-8E3A-35BD-1FFF22BBD983}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ThirdPersonMovement.cs">
+    <Files>
+      <File FileName="Assets/ThirdPersonMovement.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3D survival" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ThirdPersonMovement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0440fba4-733f-46fb-beda-3948a5fcaf23" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
